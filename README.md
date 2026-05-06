@@ -2,6 +2,8 @@
 
 ## Group Members
 - Munthir Almukhlif - 444101355
+- Haitham Alduais - 444105932
+- Mohammed Alfarraj - 443102025
 
 ## Project Title
 Medical Insurance Charges Prediction
