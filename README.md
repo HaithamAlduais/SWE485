@@ -1,0 +1,18 @@
+# Phase 1 - Data Exploration
+
+## Group Members
+- Munthir Almukhlif - 444101355
+
+## Project Title
+Medical Insurance Charges Prediction
+
+## Motivation
+This project studies the U.S. medical insurance dataset to understand which personal and health factors most influence insurance charges.
+The dataset is a good fit for Phase 1 because it is small, clean, and supports regression analysis with clear categorical and numerical variables.
+
+## Repository Contents
+- `Dataset/insurance.csv` - raw dataset file
+- `Phase1_Data_Exploration.ipynb` - exploratory notebook for Phase 1
+
+## Dataset Source
+- Kaggle: https://www.kaggle.com/datasets/mirichoi0218/insurance?resource=download
