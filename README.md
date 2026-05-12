@@ -1,6 +1,9 @@
 # SW485-Project-Group#
 
-# Medical Insurance Cost Risk and Advice System
+## Group Members
+- Munthir Almukhlif - 444101355
+- Haitham Alduais - 444105932
+- Mohammad Alfarraj - 443102025
 
 ## Group Information
 
